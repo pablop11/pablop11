@@ -75,6 +75,12 @@ Software Developer with strong programming knowledge. I’m constantly learning 
   <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
 
+<h3>📊 Stats</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablop11&layout=compact&theme=tokyonight" height="160" />
+</p>
+
 <!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
