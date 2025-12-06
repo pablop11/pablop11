@@ -46,7 +46,7 @@ Software Developer with strong programming knowledge. I’m constantly learning 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-📚 Libraries
+<h3>📚 Libraries</h3> 
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-4D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white" />
