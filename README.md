@@ -46,9 +46,15 @@ Software Developer with strong programming knowledge. I’m constantly learning 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-<!-- #### 📚 Libraries
+📚 Libraries
 
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/NumPy-4D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+<!--![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white) -->
@@ -78,7 +84,8 @@ Software Developer with strong programming knowledge. I’m constantly learning 
 <h3>📊 Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablop11&layout=compact&theme=tokyonight" height="160" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablop11&layout=compact&theme=tokyonight" height="160" />-->
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=pablop11&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
