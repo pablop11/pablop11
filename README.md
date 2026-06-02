@@ -1,35 +1,12 @@
 <h1 align="center"><b>Hi, I'm Pablo 👋 </b></h1>
 
-<!--
-**pablop11/pablop11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-🔭 I’m currently working on improving backend architectures and exploring data-driven solutions.
-👯 I’m looking to collaborate on innovative projects involving AI, data analytics, or backend development.
-🤔 I’m looking for help with optimizing machine learning workflows and data processing pipelines.
-💬 Ask me about software development, APIs, or backend optimization.
-📫 How to reach me: [your email or LinkedIn link]
-😄 Pronouns: he/him
-⚡ Fun fact: I love turning complex problems into elegant code solutions. -->
-
 <h3>👨🏻‍💻 About Me</h3>
 
-Software Developer with strong programming knowledge. I’m constantly learning to improve my technical skills and grow professionally. I’m motivated by new challenges and enjoy working in a team to build efficient, high-quality solutions.
-
-🌱 I’m currently learning Artificial Intelligence and Big Data.
+<p>Desarrollador BackEnd con sólidos conocimientos en programación y formación especializada en IA y Big Data. En constante aprendizaje para perfeccionar habilidades técnicas y crecer profesionalmente. Me motivan los nuevos retos y trabajar en equipo. Creo que la clave del éxito está en aprender constantemente.</p>
 
 <h2>🛠 Tech Stack</h3> 
 
+<div align="center">
 <h3>🔧 Languages</h3> 
 
 <p>
@@ -46,18 +23,18 @@ Software Developer with strong programming knowledge. I’m constantly learning 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-<h3>📚 Libraries</h3> 
+<h3>🤖 AI & Big Data</h3> 
 
 <p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/NumPy-4D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
-
-<!--![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white) -->
 
 <h3>🗃 Databases</h3> 
 
@@ -66,8 +43,6 @@ Software Developer with strong programming knowledge. I’m constantly learning 
   <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sql%20server&logoColor=yellow" />
 </p>
-
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 <h3>🔧 Other Tools and Technologies</h3> 
 
@@ -80,20 +55,8 @@ Software Developer with strong programming knowledge. I’m constantly learning 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
+</div>
 
-<!-- <h3>📊 Stats</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablop11&layout=compact&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=pablop11&layout=compact&theme=tokyonight" height="160" />
-</p> -->
-
-<!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
-
-<!-- ### In future, I will learn: -->
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
