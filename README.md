@@ -38,7 +38,9 @@
     <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/YOLO-1E90FF?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VLMS-00B2FF?style=for-the-badge" />
   </p>
   
   <h3>🗃 Databases</h3> 
@@ -59,6 +61,8 @@
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    
   </p>
 </div>
 
