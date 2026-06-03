@@ -41,6 +41,9 @@
     <img src="https://img.shields.io/badge/YOLO-1E90FF?style=for-the-badge&logo=opencv&logoColor=white" />
     <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
     <img src="https://img.shields.io/badge/VLMS-00B2FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+    <!-- <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"> -->
   </p>
   
   <h3>🗃 Databases</h3> 
