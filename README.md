@@ -16,53 +16,52 @@
 <div align="center">
   <h3>🖥️ Languages and Frameworks</h3> 
   
-  <p>
+  <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  </p>
-  
-  ### 🤖 AI & Big Data
+  </div>
 
-<!-- Lenguajes y Librerías Científicas -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-F58025?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <h3>🤖 AI & Big Data</h3> 
 
-<br>
-
-<!-- Deep Learning y Visión / Herramientas -->
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00027?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FEEB00?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-<br>
-
-<!-- Notebooks, Datasets y Etiquetado -->
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Label_Studio-FF6B6B?style=for-the-badge&logo=labelstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <div>
+    <!-- Lenguajes y Librerías Científicas -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/PySpark-F58025?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <br>
+    <!-- Deep Learning y Visión / Herramientas -->
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00027?style=for-the-badge&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FEEB00?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <br>
+    <!-- Notebooks, Datasets, Etiquetado y Visualización-->
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Label_Studio-FF6B6B?style=for-the-badge&logo=labelstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </div>
   
   <h3>🗃 Databases</h3> 
   
-  <p>
+  <div>
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sql%20server&logoColor=yellow" />
-  </p>
+  </div>
   
   <h3>🔧 Other Tools and Technologies</h3> 
   
-  <p>
+  <div>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=orange" />
@@ -73,7 +72,8 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Miniconda-3C873A?style=for-the-badge&logo=anaconda&logoColor=white" />
     <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />  </p>
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  </div>
 </div>
 
 <!-- <br></br> -->
@@ -81,13 +81,16 @@
 
 <h3><a href="https://github.com/pablop11/CE_IABD">Prácticas del Curso de especializacion de IA y Big Data</a></h3>
 <ul>
-  <li>Repositorio con las prácticas realizadas durante el curso de Inteligencia Artificial y Big Data. Incluye ejercicios, proyectos y pruebas con diferentes herramientas y tecnologías del sector</li>
+  <li>
+    Repositorio con las prácticas realizadas en el curso de Inteligencia Artificial y Big Data, donde se desarrollan proyectos y ejercicios 
+    prácticos aplicando técnicas de Machine Learning, Deep Learning y análisis de datos, utilizando herramientas y tecnologías del sector.
+  </li>
 </ul>
 
 <!-- <br></br> -->
 <h2>📫 Contact</h2>
 
-<p align="center">
+<div align="center">
   <a href="mailto:palaciocobopabo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -99,7 +102,7 @@
   <a href="https://github.com/pablop11">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
