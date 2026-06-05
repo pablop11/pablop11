@@ -10,7 +10,7 @@
 
 <p align="left">Desarrollador BackEnd con sólidos conocimientos en programación y formación especializada en IA y Big Data. En constante aprendizaje para perfeccionar habilidades técnicas y crecer profesionalmente. Me motivan los nuevos retos y trabajar en equipo. Creo que la clave del éxito está en aprender constantemente.</p>
 
-<br></br>
+<!-- <br></br> -->
 <h2>🛠 Tech Stack</h3> 
 
 <div align="center">
@@ -43,6 +43,8 @@
     <img src="https://img.shields.io/badge/VLMS-00B2FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/Label_Studio-FF6B6B?style=for-the-badge&logo=labelstudio&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"> -->
   </p>
   
@@ -65,11 +67,12 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    
-  </p>
+    <img src="https://img.shields.io/badge/Miniconda-3C873A?style=for-the-badge&logo=anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />  </p>
 </div>
 
-<br></br>
+<!-- <br></br> -->
 <h2>🧩 Projects</h2>
 
 <h3><a href="https://github.com/pablop11/CE_IABD">Prácticas del Curso de especializacion de IA y Big Data</a></h3>
@@ -77,7 +80,7 @@
   <li>Repositorio con las prácticas realizadas durante el curso de Inteligencia Artificial y Big Data. Incluye ejercicios, proyectos y pruebas con diferentes herramientas y tecnologías del sector</li>
 </ul>
 
-<br></br>
+<!-- <br></br> -->
 <h2>📫 Contact</h2>
 
 <p align="center">
