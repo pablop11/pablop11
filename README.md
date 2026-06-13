@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   </div>
 
   <h3>🤖 AI & Big Data</h3> 
@@ -42,6 +43,8 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Hugging_Face-FEEB00?style=for-the-badge&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLMs-%234F46E5.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VLMs-%2306B6D4.svg?style=for-the-badge" />
     <br>
     <!-- Notebooks, Datasets, Etiquetado y Visualización-->
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
