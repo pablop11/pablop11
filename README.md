@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   </div>
 
   <h3>🤖 AI & Big Data</h3> 
@@ -43,15 +44,17 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Hugging_Face-FEEB00?style=for-the-badge&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/LLMs-%234F46E5.svg?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/VLMs-%2306B6D4.svg?style=for-the-badge" />
     <br>
     <!-- Notebooks, Datasets, Etiquetado y Visualización-->
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Label_Studio-FF6B6B?style=for-the-badge&logo=labelstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <!-- IA Generativa, LLMs y RAG -->
+    <img src="https://img.shields.io/badge/LLMs-%234F46E5.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VLMs-%2306B6D4.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white" />
   </div>
   
   <h3>🗃 Databases</h3> 
@@ -67,7 +70,6 @@
   <div>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=orange" />
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
