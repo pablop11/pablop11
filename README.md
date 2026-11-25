@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Big+Data;Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Analyst;Backend+Developer" />
 </p>
 
 <h2>👨🏻‍💻 About Me</h2>
 
-<p align="left">Desarrollador BackEnd con sólidos conocimientos en programación y formación especializada en IA y Big Data. En constante aprendizaje para perfeccionar habilidades técnicas y crecer profesionalmente. Me motivan los nuevos retos y trabajar en equipo. Creo que la clave del éxito está en aprender constantemente.</p>
+<p align="left">Especializado en IA y Big Data, con experiencia en visión computacional, modelos VLM y análisis de datos. Cuento además con conocimientos de desarrollo de software, aportando una visión integral en el diseño e implementación de soluciones tecnológicas. Me motivan los nuevos retos, el aprendizaje continuo y el trabajo en equipo, buscando seguir desarrollando mis capacidades técnicas y profesionales en el ámbito de la inteligencia artificial y los datos.</p>
 
 <!-- <br></br> -->
 <h2>🛠 Tech Stack</h3> 
