@@ -8,7 +8,10 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
-<p align="left">Especializado en IA y Big Data, con experiencia en visión computacional, modelos VLM y análisis de datos. Cuento además con conocimientos de desarrollo de software, aportando una visión integral en el diseño e implementación de soluciones tecnológicas. Me motivan los nuevos retos, el aprendizaje continuo y el trabajo en equipo, buscando seguir desarrollando mis capacidades técnicas y profesionales en el ámbito de la inteligencia artificial y los datos.</p>
+<p align="left">Especializado en IA y Big Data, con conocimientos en visión computacional, modelos LLM y VLM, arquitecturas RAG y análisis 
+de datos. Cuento además con experiencia en desarrollo de software, aportando una visión integral en el diseño e implementación 
+de soluciones tecnológicas. Me motivan los nuevos retos y trabajar en equipo, buscando seguir desarrollando mis capacidades 
+técnicas y profesionales en el ámbito de la inteligencia artificial y los datos.</p>
 
 <!-- <br></br> -->
 <h2>🛠 Tech Stack</h3> 
